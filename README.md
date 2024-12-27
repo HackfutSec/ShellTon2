@@ -1,5 +1,3 @@
----
-
 # ShellTon2 - Advanced PHP File Manager
 
 ## Description
@@ -123,5 +121,3 @@ Here’s an example of the interface:
 - **Action Logging**: All actions performed on the file manager are logged into a text file (`action_log.txt`).
 - **Improved File and Directory Management**: Added the ability to create directories, improved file management actions like delete, edit, and rename.
 - **File Permissions**: While permissions are not fully implemented in this version, placeholders are included for future expansion.
-
----
